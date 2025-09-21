@@ -26,3 +26,17 @@ then put the folders in ~/.config (execept wallpapers), install capitaine cursor
 ```
 yay -S gruvbox-gtk-theme-git
 ```
+
+# Shortcuts
+
+| Action  | Shortcut |
+| ------------- | ------------- |
+| Open terminal | SUPER + Q |
+| Open application laucnher | SUPER + R |
+| Open File manager | SUPER + E |
+| Logout | SUPER + M |
+| Lockscreen | SUPER + L |
+| Open Firefox | SUPER + F |
+| Close window | SUPER + C |
+| Toggle Floating | SUPER + V |
+| Fullscreen | SUPER + A |
