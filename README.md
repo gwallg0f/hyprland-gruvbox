@@ -1,5 +1,5 @@
 # hyprland-gruvbox
-another dotfiles
+very cool dotfiles i made
 
 <img width="1681" height="1051" alt="20250921_011056" src="https://github.com/user-attachments/assets/847b3564-ba56-4af4-8569-15eb2df77c2a" />
 
