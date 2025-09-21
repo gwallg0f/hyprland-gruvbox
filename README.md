@@ -16,7 +16,7 @@ yay -S maplemono-otf
 ```
 
 # Installation
-  put the folders in ~/.config (exept wallpapers), install capitaine cursors as your cursor theme (https://github.com/keeferrourke/capitaine-cursors) and for your GTK theme, please install this:
+  put the folders in ~/.config (execept wallpapers), install capitaine cursors as your cursor theme (https://github.com/keeferrourke/capitaine-cursors) and for your GTK theme, please install this:
 ```
 yay -S gruvbox-gtk-theme-git
 ```
