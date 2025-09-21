@@ -5,6 +5,10 @@ very cool dotfiles i made
 
 <img width="1681" height="1051" alt="20250921_011132" src="https://github.com/user-attachments/assets/bab851d0-d04c-4674-9502-ca21b567774b" />
 
-```sudo pacman -S kitty waybar rofi hypridle hyprpaper hyprlock ttf-jetbrains-mono-nerd```
+```
+sudo pacman -S kitty waybar rofi hypridle hyprpaper hyprlock ttf-jetbrains-mono-nerd
+```
 
-```yay -S maplemono-otf```
+```
+yay -S maplemono-otf
+```
