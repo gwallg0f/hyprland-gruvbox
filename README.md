@@ -1,6 +1,9 @@
 # hyprland-gruvbox
+
 <img width="100" height="100" alt="Untitled" src="https://github.com/user-attachments/assets/01554fbf-19dd-49e1-8f92-69b278b9c579" />
+
 **<ins>Showcase</ins>**
+
 <img width="600" height="500" alt="20250921_011056" src="https://github.com/user-attachments/assets/847b3564-ba56-4af4-8569-15eb2df77c2a" />
 
 <img width="600" height="500" alt="20250921_011132" src="https://github.com/user-attachments/assets/bab851d0-d04c-4674-9502-ca21b567774b" />
