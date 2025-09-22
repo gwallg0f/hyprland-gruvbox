@@ -15,7 +15,7 @@
 **Dependencies**
 
 ```
-sudo pacman -S kitty waybar rofi nemo hypridle hyprpaper hyprlock ttf-jetbrains-mono-nerd
+sudo pacman -S kitty waybar rofi fish nemo hypridle hyprpaper hyprlock ttf-jetbrains-mono-nerd
 ```
 
 ```
